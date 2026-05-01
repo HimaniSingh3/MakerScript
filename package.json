@@ -1,0 +1,23 @@
+{
+  "name": "makerscript",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A responsive JavaScript project studio for generating beautiful starter scripts.",
+  "author": "Himani Singh",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "keywords": [
+    "javascript",
+    "script-generator",
+    "responsive",
+    "makerscript",
+    "vite"
+  ],
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
